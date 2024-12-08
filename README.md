@@ -20,6 +20,7 @@ Math
 Computer Science
 - [Computer Science](https://github.com/ossu/computer-science?fbclid=IwAR1cj9BF1MhuyatQ3eyLneE3NkuTnCqHkaGqNWvnA71QyrmVRilHg9nrUXw)
 - [Stanford EE274: Data Compression I 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz)
+- [OPENCV & C++ TUTORIAL](https://www.youtube.com/playlist?list=PLUTbi0GOQwghR9db9p6yHqwvzc989q_mu)
 
 Data Science
 - [Statistics Course for Beginners: Introduction to Statistics | MarinStatsLectures](https://www.youtube.com/watch?v=AN3UkzE3HMg&list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa)
